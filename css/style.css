@@ -78,4 +78,10 @@ a{
 .orden{
   justify-content: center !important;
 }
+.c{
+  width: auto;
+}
+.f{
+  font-size: 15px !important;
+}
 }
